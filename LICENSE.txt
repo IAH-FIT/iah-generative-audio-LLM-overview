@@ -1,0 +1,11 @@
+Copyright © 2025 IAH | Sonic Supplements™
+
+This repository is for informational purposes only.
+
+It contains no model weights, training data, or production code.  
+All Sonic Intelligence Engine™ components — including music, architecture, and language models — are proprietary and protected under international copyright and IP law.
+
+No part of this system may be copied, reused, redistributed, or reverse engineered without explicit written permission from IAH | Sonic Supplements™.
+
+For partnership or research access to our private repo:
+📩 team@sonicsupplements.com
