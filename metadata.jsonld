@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "IAH Sonic Intelligence Engine",
+  "operatingSystem": "Cloud",
+  "applicationCategory": "AI Generative Audio System",
+  "creator": {
+    "@type": "Organization",
+    "name": "IAH | Sonic Supplements",
+    "url": "https://iah.sonicsupplements.com"
+  },
+  "description": "LLM-powered generative audio engine trained on original, royalty-free, intention-tagged music. Built for personalized wellness, focus, clarity, and creative flow."
+}
