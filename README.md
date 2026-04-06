@@ -1,47 +1,61 @@
-# iah-generative-audio-LLM-overview
-llm, ai-music, generative-audio, resonance-ai, wellness-tech, sonic-intelligence, musicgen
-# IAH Sonic Intelligence Engine™ – Public Overview
+iah-generative-audio-overview
 
-Welcome to the public overview of the IAH Sonic Intelligence Engine™ — the generative AI system powering Sonic Supplements™.
+ai-music, generative-audio, sonic-ai, creative-tech, musicgen
+Sonic Intelligence™ – Public Overview
+Welcome to the public overview of Sonic Intelligence™ — the audio architecture powering HitZERØ.
+This repository provides a high-level view of our approach to generative audio. It does not include production systems, models, or proprietary assets.
 
-This repository is intended to provide a high-level understanding of our proprietary large language model (LLM) and audio generation system. It does **not** include production code, model weights, or training data.
+🔊 What It Is
+Sonic Intelligence™ is a proprietary audio system that transforms human intention into original music.
+Unlike conventional systems that learn by imitating existing songs, Sonic Intelligence™ generates music from first principles using the IAH Resonance Engine™ — translating emotional states, creative direction, and performance intent into complete compositions.
 
----
+Every output is:
+original
+commercially owned
+built for real-world use
 
-## 🔊 What It Is
+🧠 The Architecture
+At the core is the IAH Resonance Engine™, a generative system that synthesizes:
+rhythm
+harmony
+timbre
+spatial design
+energy contour
+vocal expression
+These elements are shaped by structured inputs describing intention, mood, and use case.
+Intention → Structured Input → Audio Generation
 
-The IAH Sonic Intelligence Engine™ is a proprietary, LLM-powered generative audio system trained on our private library of original, royalty-free music created over the past 25 years. Our library spans meditation, tribal, hip hop, EDM, rock, and ambient — all intention-tagged and frequency-rich.
+⚙️ The Output
+Each generation produces a fully original music track created in real time.
+Creators receive:
+a complete composition
+a perpetual, worldwide, royalty-free commercial license
+full ownership and control
+Within the HitZERØ ecosystem, these outputs are referred to as Sonic Supplements™.
 
-Unlike wrapper platforms or public dataset tools, our engine interprets emotional intention, then generates personalized sound experiences designed to elevate clarity, focus, vitality, and creative flow.
+🧩 Training Foundation
+Sonic Intelligence™ is trained on a curated foundation of music that is:
+owned
+licensed with explicit machine learning rights
+sourced from verified public domain
+All sources are documented with clear provenance.
 
----
+📦 What’s Inside This Repo
+This repository includes:
+pipeline.md – high-level system flow
+vision.md – product philosophy
+demo/example_prompt.md – example input/output behavior
+metadata.jsonld – structured schema
+LICENSE.txt – access and usage terms
 
-## 🧠 What’s Inside This Repo
+🔒 What’s Not Included
+This repository does not include:
+model weights or checkpoints
+training pipelines or infrastructure
+proprietary datasets or music assets
+internal optimization or tuning methods
+All production systems and intellectual property are maintained privately.
 
-This repository contains:
-- `pipeline.md` – High-level system architecture
-- `vision.md` – Our mission and guiding philosophy
-- `demo/example_prompt.md` – Sample user prompt and output description
-- `metadata.jsonld` – Structured schema.org data
-- `LICENSE.txt` – Licensing and access policy
-
----
-
-## 🔒 What’s Not Included
-
-This public repository does not include:
-- Model weights
-- Source code
-- Training data
-- Music files or IP-sensitive architecture
-
-All proprietary development is housed in a **private GitHub repository**. For qualified investor or partner access, contact:
-
-📩 **team@sonicsupplements.com**
-
----
-
-## 🔗 Learn More
-
-🌐 [https://sonicsupplements.com](https://sonicsupplements.com)  
-🎶 Powered by: The IAH Sonic Intelligence Engine™  
+🔗 Learn More
+🌐 https://hitzero.com
+Powered by Sonic Intelligence™ and the IAH Resonance Engine™
