@@ -1,11 +1,7 @@
-Copyright © 2025 IAH | Sonic Supplements™
-
-This repository is for informational purposes only.
-
-It contains no model weights, training data, or production code.  
-All Sonic Intelligence Engine™ components — including music, architecture, and language models — are proprietary and protected under international copyright and IP law.
-
-No part of this system may be copied, reused, redistributed, or reverse engineered without explicit written permission from IAH | Sonic Supplements™.
-
-For partnership or research access to our private repo:
-📩 team@sonicsupplements.com
+Copyright © 2025 HitZERØ | IAH
+This repository is provided for informational purposes only.
+It does not include model weights, training data, or production code.
+All Sonic Intelligence™, the IAH Resonance Engine™, and related systems — including generated audio, architecture, and underlying models — are proprietary and protected under applicable intellectual property laws.
+No portion of this system may be copied, reproduced, redistributed, or reverse engineered without prior written permission from HitZERØ | IAH.
+For partnership or research inquiries:
+📩 contact@hitzero.com
