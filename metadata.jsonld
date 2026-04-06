@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
   "@type": "SoftwareApplication",
-  "name": "IAH Sonic Intelligence Engine",
+  "name": "Sonic Intelligence™",
   "operatingSystem": "Cloud",
-  "applicationCategory": "AI Generative Audio System",
+  "applicationCategory": "Generative Audio System",
   "creator": {
     "@type": "Organization",
-    "name": "IAH | Sonic Supplements",
-    "url": "https://iah.sonicsupplements.com"
+    "name": "HitZERØ | IAH",
+    "url": "https://hitzero.com"
   },
-  "description": "LLM-powered generative audio engine trained on original, royalty-free, intention-tagged music. Built for personalized wellness, focus, clarity, and creative flow."
+  "description": "Sonic Intelligence™ is a generative audio system that transforms user intention into original music. Powered by the IAH Resonance Engine™, it creates fully original compositions designed for focus, creativity, and performance, with full commercial rights for every output."
 }
