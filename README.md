@@ -1,4 +1,4 @@
-iah-generative-audio-overview
+HitZERO-generative-audio-overview
 
 ai-music, generative-audio, sonic-ai, creative-tech, musicgen
 Sonic Intelligence™ – Public Overview
