@@ -1,49 +1,34 @@
-# 🧠 IAH Sonic Intelligence Engine – High-Level Pipeline
+🧠 Sonic Intelligence™ – High-Level Pipeline
 
-This file outlines the high-level architecture of the IAH Sonic Intelligence Engine™ — our proprietary, LLM-powered system for generative wellness audio.
+This document outlines the high-level architecture of Sonic Intelligence™ — the audio system powering HitZERØ.
+It is provided for informational purposes only. No model weights, code, or training data are included.
 
-It is shared here for informational purposes only. No model weights, code, or training data are included.
+🔁 System Overview
+Sonic Intelligence™ transforms user intention into original music through a multi-stage generative pipeline:
 
----
+1. 🗣️ Input Capture
+User defines an intention (e.g., focus, energy, atmosphere, style)
+Input can be provided via interface or guided interaction
+2. 🧠 Intent Interpretation
+Input is analyzed for emotional tone, style, and desired outcome
+Mapped to a structured representation of musical and experiential attributes
+3. 🧬 Conditioning Layer
+Structured inputs guide the generation process
+Parameters may include energy profile, pacing, instrumentation, and spatial characteristics
+4. 🎧 Audio Generation
+The system generates a fully original composition in real time
+Outputs are shaped for coherence, balance, and intended experience
+5. 🎨 Output Packaging (Optional)
 
-## 🔁 System Overview
+Audio may be paired with visual or contextual assets
+Delivered as a complete creative output within the HitZERØ platform
 
-The engine transforms user intention into personalized music using a multi-stage AI pipeline:
+💡 Built With
+Modern generative audio frameworks and proprietary systems
+Curated, high-quality music sources with appropriate rights and provenance
+Scalable cloud infrastructure for training and inference
 
-### 1. 🗣️ Prompt Ingestion
-- User enters an intention (e.g., “clarity + ambient + tribal”)
-- Delivered via UI or Ask IAH™ conversational interface
-
-### 2. 🧠 NLP + Metadata Parsing
-- Prompt analyzed for emotional tone, genre, and intention keywords
-- Mapped against an internal taxonomy of moods, states, and acoustic features
-
-### 3. 🧬 Model Conditioning
-- Metadata + prompt guide MusicGen-based LLM
-- Optional: apply voice synthesis flags or genre constraints
-- Dynamic structure targeting (e.g., BPM, energy arc, silence bookends)
-
-### 4. 🎧 Sonic Generation
-- Custom music generated using our fine-tuned model
-- 8-bar intro and outro
-- Balanced instrumentation designed for heart-brain coherence
-
-### 5. 🎨 Multi-Modal Output (Optional)
-- Matched with Spectral Resonance Art™
-- Packaged as a downloadable Sonic Supplement™
-
----
-
-## 💡 Built With
-
-- PyTorch, Hugging Face, ffmpeg, EnCodec
-- Metadata-rich dataset of royalty-free, original compositions
-- Training and deployment infrastructure on AWS
-
----
-
-## 🔒 Note
-
-This is a public overview.  
-For private repo access, technical partners may contact:  
-📩 **team@sonicsupplements.com**
+🔒 Note
+This is a public overview.
+All production systems, models, and datasets are maintained privately.
+For partnership or research inquiries:
